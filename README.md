@@ -22,7 +22,7 @@ A project made with the Raylib library, simulating snowflakes particles. This wa
 
 ## Credits
 - [EpsilonsQc](https://github.com/EpsilonsQc) - various optimizations to improve performance (profiling, object size), object pool implementation
-- Snowflakes simulation, based on **Khalil Hajlaoui** code
+- Snowflakes simulation, based on code from **Khalil Hajlaoui**
 
 ## Legal
 The source code in this repository is for non-commercial use only. If you use the source code you may not charge others for access to it or any derivative work thereof. All the assets (textures, sounds, etc.) were found on the internet (either purchased from the Asset Store or from other sources).
