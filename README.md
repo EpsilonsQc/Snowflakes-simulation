@@ -1,4 +1,4 @@
-<h1 align="center">Snowflakes-simulation</h1>
+<h1 align="center">Snowflakes simulation</h1>
 <p align="center"><img width="900" src="https://user-images.githubusercontent.com/11299907/221725055-b0ed6f20-41aa-49ee-baef-c7495fb08ac3.png"></p>
 <p align="center"><img width="900" src="https://user-images.githubusercontent.com/11299907/221722691-2ab65509-45a5-4c92-89ba-3e8a4629f9dd.png"></p>
 
