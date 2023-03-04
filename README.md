@@ -16,9 +16,9 @@ A project made with the Raylib library, simulating snowflakes particles. It was 
 - From November 7th 2022 to November 21th 2022 [14 days period]
 
 ## Controls
-- Arrows (up/down/left/right): move/jump/tilt the character
-- Space bar: jump
-- Numbers 1 to 9: restarts the simulation with a predefined number of particles
+- Arrows (up/down/left/right) : move/jump/tilt the character
+- Space bar : jump
+- Numbers 1 to 9 : restarts the simulation with a predefined number of particles
 
 ## Credits
 - [EpsilonsQc](https://github.com/EpsilonsQc) - various optimizations to improve performance (profiling, object size), object pool implementation
